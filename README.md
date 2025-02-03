@@ -13,11 +13,8 @@ The Second Hand Market webpage is an online platform designed to allow users to 
 - **Item Categories**: Items are organized into categories for easy browsing (e.g., electronics, furniture, clothing).
 - **Buy Items**: Buyers can view item details, contact the seller, and initiate purchases.
 - **Sell Items**: Sellers can easily list their used items, set prices, and upload images to attract potential buyers.
-- **Responsive Design**: The platform is optimized for use across various devices, including desktop, tablet, and mobile.
 
 ## Technologies Used
 
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
 - **Database**: Supabase
 - **Authentication**: JWT (JSON Web Tokens) for user authentication
