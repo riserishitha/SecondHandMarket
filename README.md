@@ -18,3 +18,6 @@ The Second Hand Market webpage is an online platform designed to allow users to 
 
 - **Database**: Supabase
 - **Authentication**: JWT (JSON Web Tokens) for user authentication
+- **Testing**: Applied Testrail for this manually
+
+![Testing](![Screenshot (939)](https://github.com/user-attachments/assets/dc08c1aa-5d33-4908-b0f8-b67f6e52d302))
