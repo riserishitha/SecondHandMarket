@@ -3,9 +3,7 @@
 ![Second Hand Market](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNajEGPrRVTkhMEzO_BcemnZoyL4PQ0DYKsg&s)
 
 ## Deployed link:
-
-https://zingy-dolphin-328240.netlify.app/signin
-
+[Sign In Page](https://zingy-dolphin-328240.netlify.app/signin)
 ## Overview
 The Second Hand Market webpage is an online platform designed to allow users to buy and sell second-hand items with ease. Whether you're looking to declutter your home or find affordable items, this platform provides a user-friendly interface to list and browse items in various categories. It facilitates safe transactions between buyers and sellers, ensuring that both parties can enjoy a smooth experience.
 
